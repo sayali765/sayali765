@@ -1,53 +1,31 @@
-📧 **Email:** sayalipathak2020@gmail.com
+const sayaliPathak = {
+    role: "QA Engineer (In Learning Phase)",
+    tagline: "Creating software that helps people grow, collaborate, and celebrate at the next level",
+    location: "India 🇮🇳",
+    education: "B.Tech CSE – 2025 Passout",
 
-## 👩‍💻 About Me
-- 🎓 B.Tech Graduate (2025 Passout)
-- 🧪 Currently learning Software Testing (QA)
-- 💻 Knowledge of Java, Python, HTML, CSS, JavaScript, and React.js
-- 🔍 Understanding of SDLC, STLC, and manual testing concepts
-- 🌱 Actively improving skills in test case writing, defect tracking, and QA best practices
+    focus: "Quality Assurance with strong focus on Java",
+    learning: [
+        "Manual Testing",
+        "Test Case & Test Scenario Writing",
+        "Defect / Bug Tracking",
+        "SDLC & STLC",
+        "Java for QA"
+    ],
 
----
+    techSkills: {
+        languages: ["Java", "Python", "JavaScript"],
+        frontend: ["HTML", "CSS", "React.js (Basics)"],
+        tools: ["Git", "GitHub", "Postman", "Jira", "VS Code"]
+    },
 
-## 🛠 Skills
+    projects: [
+        "CV Fraud Detection System",
+        "Blood Bank Management System",
+        "Personal Portfolio Website"
+    ],
 
-**Testing Skills:**
-- Manual Testing
-- Test Case & Test Scenario Writing
-- Defect/Bug Reporting
-- SDLC & STLC
-- Smoke, Sanity & Regression Testing (Basics)
+    goal: "To build reliable, human-centric software through quality and continuous learning",
+    funFact: "I enjoy breaking software to make it better 😄"
+};
 
-**Programming & Web Technologies:**
-- Java
-- Python
-- HTML5, CSS3
-- JavaScript
-- React.js (Basics)
-
-**Tools & Platforms:**
-- Git & GitHub
-- Postman (Basic API Testing)
-- Jira (Basic knowledge)
-- VS Code
-
----
-
-## 🚀 Projects
-
-### 🔹 CV Fraud Detection System
-- Role: Team Member (Frontend & Database support)
-- Description: A system designed to detect fake or manipulated CVs using structured data validation.
-- Technologies: React.js, Python, Database
-- Responsibilities:
-  - Assisted in frontend development
-  - Supported database handling
-  - Helped in testing and validating application outputs
-
-### 🔹 Personal Portfolio Website
-- Description: A personal portfolio to showcase skills, projects, and contact information.
-- Technologies: HTML, CSS, JavaScript
-- Responsibilities:
-  - Designed responsive UI
-  - Implemented basic interactivity
-  - Tested website across browser
